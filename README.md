@@ -3,7 +3,7 @@
 <h3 align="center">Electronics & Communication Engineering Student | Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&theme=dark&lines=Electronics+%26+Communication+Engineering+Student;Python+%7C+Java+%7C+C+Developer;Open+to+Internships+%26+Fresher+Roles;Passionate+About+Technology+%26+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&theme=dark&lines=Electronics+%26+Communication+Engineering+Student;Python+%7C+Java+%7C+C;Open+to+Internships+%26+Fresher+Roles;Passionate+About+Technology+%26+Innovation" />
 </p>
 
 <p align="center">
