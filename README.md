@@ -3,11 +3,19 @@
 <h3 align="center">Electronics & Communication Engineering Student | Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;Python+%7C+Java+%7C+C+Developer;Open+to+Internships+%26+Fresher+Roles;Passionate+About+Technology+%26+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&theme=dark&lines=Electronics+%26+Communication+Engineering+Student;Python+%7C+Java+%7C+C+Developer;Open+to+Internships+%26+Fresher+Roles;Passionate+About+Technology+%26+Innovation" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=skmdshariff143-ai&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skmdshariff143-ai/skmdshariff143-ai/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skmdshariff143-ai/skmdshariff143-ai/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Animated Contribution Snake" src="https://raw.githubusercontent.com/skmdshariff143-ai/skmdshariff143-ai/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
