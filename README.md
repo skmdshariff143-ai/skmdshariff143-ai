@@ -1,157 +1,147 @@
 ```markdown
-<div align="center">
+<h1 align="center">Hi 👋, I'm Shaik Mahammad Shariff</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Shaik+Mahammad+Shariff;Electronics+%26+Communication+Engineering+Student;Python+%7C+Java+%7C+C+Programmer;Open+to+Internships+and+Fresher+Opportunities;Passionate+About+Technology+and+Innovation" alt="Typing SVG" />
+<h3 align="center">
+Electronics & Communication Engineering Student | Aspiring Software Engineer
+</h3>
 
-# 👋 Shaik Mahammad Shariff
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;Python+%7C+Java+%7C+C+Developer;Open+to+Internships+%26+Fresher+Roles;Passionate+About+Technology+%26+Innovation" />
+</p>
 
-### 🎓 Electronics & Communication Engineering Student
-### 🚀 Future Software Engineer | Technology Enthusiast
-
-<img src="https://komarev.com/ghpvc/?username=skmdshariff143-ai&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-
-</div>
-
----
-
-## 🚀 About Me
-
-- 🎓 Final Year **Electronics & Communication Engineering** Student at **Vasireddy Venkatadri International Technological University (VVITU)**.
-- 💡 Passionate about **Software Development**, **Computer Architecture**, and **Emerging Technologies**.
-- 🖥️ Interested in **Microprocessors**, **Embedded Systems**, and **Semiconductor Technologies**.
-- 🌱 Currently improving my knowledge in **Python**, **Java**, and **System Programming**.
-- 🤝 Open to collaborating on innovative projects and open-source contributions.
-- 💼 Actively seeking **Internships**, **Fresher Opportunities**, and **Entry-Level Software Roles**.
-- 📚 Dedicated to continuous learning and professional growth.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=skmdshariff143-ai&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 👨‍💻 About Me
 
-<div align="center">
+🎓 Final Year **Electronics & Communication Engineering** Student
 
-<img src="https://skillicons.dev/icons?i=c,python,java,git,github,linux,vscode" />
+🏫 **Vasireddy Venkatadri International Technological University**
 
-</div>
+💡 Interested in:
 
-### 💪 Additional Skills
+- Software Development
+- Embedded Systems
+- Computer Architecture
+- Microprocessors
+- Semiconductor Technologies
 
-- 🗣️ Communication Skills
-- 🤝 Team Collaboration
-- 📈 Problem Solving
-- ⚡ Quick Learner
-- 🎯 Leadership & Coordination
+🌱 Currently Learning:
 
----
+- Python Development
+- Java Programming
+- Git & GitHub
+- Linux
+- Data Structures & Algorithms
 
-## 🏆 Achievements & Certifications
+💼 Looking For:
 
-### 🥇 Achievements
-- Participant in the **National Integration Camp (NIC)**.
-- Active contributor to community and student development initiatives.
-
-### 📜 Certifications
-- **National Service Scheme (NSS) Certified Volunteer**
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=skmdshariff143-ai&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skmdshariff143-ai&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+- Software Engineering Internships
+- Fresher Opportunities
+- Open Source Collaborations
 
 ---
 
-## 🔥 GitHub Streak
+# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=skmdshariff143-ai&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=skmdshariff143-ai&theme=radical&margin-w=15&margin-h=15&row=1" />
+</p>
 
 ---
 
-## 🏅 GitHub Trophies
+# 💻 Tech Stack
 
-<div align="center">
+### Programming Languages
 
-<img src="https://github-profile-trophy.vercel.app/?username=skmdshariff143-ai&theme=tokyonight&row=1&column=7&margin-w=15" />
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 
-</div>
+### Tools & Platforms
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
-## 📈 Contribution Activity Graph
+### Soft Skills
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=skmdshariff143-ai&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-🔹 Strengthening Python Programming Skills
-
-🔹 Enhancing Java Development Knowledge
-
-🔹 Learning Advanced Software Engineering Concepts
-
-🔹 Exploring Computer Architecture & Embedded Systems
-
-🔹 Building Real-World Projects
-
-🔹 Preparing for Software Development Careers
+![Communication](https://img.shields.io/badge/Communication-4CAF50?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-orange?style=for-the-badge)
+![Teamwork](https://img.shields.io/badge/Teamwork-blue?style=for-the-badge)
+![Leadership](https://img.shields.io/badge/Leadership-purple?style=for-the-badge)
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=skmdshariff143-ai&show_icons=true&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skmdshariff143-ai&layout=compact&theme=radical" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=skmdshariff143-ai&theme=radical" />
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Python Development
+- Java Programming
+- Linux Fundamentals
+- Data Structures & Algorithms
+- Computer Architecture
+- Embedded Systems
+
+---
+
+# 🏅 Achievements & Certifications
+
+🥇 Participant – National Integration Camp (NIC)
+
+📜 NSS Certified Volunteer
+
+🤝 Active Participant in Community Service Activities
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/mahammad-shariff-shaik-32903934a/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:sk.md.shariff143@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-## 💭 Personal Motto
+# 💭 Quote
 
 > "Continuous learning and consistent effort turn opportunities into achievements."
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/skmdshariff143-ai/skmdshariff143-ai/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 <div align="center">
 
-### 🚀 Thanks for visiting my profile!
+### 🚀 Thanks for Visiting My Profile!
 
 ⭐ Explore my repositories and connect with me.
-
-💡 Building a strong foundation in technology, one project at a time.
 
 </div>
 ```
